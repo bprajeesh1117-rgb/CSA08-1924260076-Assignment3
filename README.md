@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-# CSA08-1924260076-Assignment3
+
+CSA08-1924260076-Assignment3
 
 **Assignment:** Assignment 3 – CO3  
 **Student:** Prajeesh B.  
