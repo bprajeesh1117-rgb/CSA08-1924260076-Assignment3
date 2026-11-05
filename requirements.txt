@@ -1,1 +1,3 @@
-# Standard library only; no external packages required.
+# No third-party packages required.
+# All assignment programs use Python standard library modules.
+# Python 3.13
