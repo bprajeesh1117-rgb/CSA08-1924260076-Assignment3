@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CSA08-1924260076-Assignment3
 
 **Assignment:** Assignment 3 – CO3  
@@ -35,3 +36,6 @@ Only Python standard-library modules are used. No third-party packages are requi
 - Take screenshots of each program's actual output after running it, and place them in the corresponding Task folder before submission.
 - Review the report/analysis requirements in the assignment sheet and add your own measured results.
 - Update the GitHub repository link on the cover page and in this README after creating the repository.
+=======
+# CSA08-1924260076-Assignment3
+>>>>>>> cfa165fe9c28ffa6c2dfb2e38cb72503e801e897
